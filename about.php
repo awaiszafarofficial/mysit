@@ -42,7 +42,7 @@
     </div>
   </div>
 </nav>
-<div class="jumbotron jumbotron-fluid">
+<div class="jumbotron jumbotron-fluid text-center p-5 bg-dark text-white">
     <h1>Welcome to my site!</h1>
     <p>We are the web developers</p>
 </div>
